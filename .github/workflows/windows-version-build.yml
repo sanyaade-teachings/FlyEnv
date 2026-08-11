@@ -1,4 +1,4 @@
-name: Build FlyEnv Windows Packages
+name: Build FlyEnv Windows Packages-test
 on:
   workflow_dispatch:
   push:
